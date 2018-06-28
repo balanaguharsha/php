@@ -1,0 +1,23 @@
+PHP stands for 'hypertext preprocessor'
+used to generated dynamic web pages
+This is a sever side programming language
+PHP scripts reside between reserved PHP tags which allows the programmer to embed these scripts within HTML pages
+
+
+-> Interpreted language
+-> executed on the server-side
+-> Source code is not visible by client
+-> compatable with most popular databases
+
+SETUP FOR PHP DEVELOPMENT
+XAMPP
+
+notes:  
+  Similar to C/C++
+    Supports procedural and object-oriented paradigm
+    ends with semicolon
+    comments can be by c-type or '#' will also work
+    
+    
+-> variable start with '$
+->there is no space between $ and variable name
