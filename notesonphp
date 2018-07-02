@@ -21,3 +21,8 @@ notes:
     
 -> variable start with '$
 ->there is no space between $ and variable name
+
+ALl the global variables can be accesed outside the function only
+  If one wants them to be accessed inside the function they can be declared as global inside the function
+In PHP, 
+  ALl the global variables are stores in an array called as "GLOBALS" and be accessed or modified anywhere
